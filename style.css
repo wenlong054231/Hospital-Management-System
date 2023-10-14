@@ -1,0 +1,49 @@
+.table-style{
+	border:2px solid;
+	border-color:rgb(212, 237, 255);
+	
+}
+table, th, td {
+  border: 2px solid rgb(212, 237, 255);
+  border-collapse: collapse;
+  background-color:rgb(245, 251, 255);
+  margin-right:100px;
+  
+}
+
+.tablecolstyle{
+	table-layout: fixed;
+	height:60px;
+	width:300px;
+	text-align:center;
+
+}
+th{
+	background-color:rgb(107, 193, 255);
+	
+	
+	
+}
+
+.input-button {
+	width:150px;
+	height:40px;
+	
+	
+}
+.twbtn{
+	
+	width:73px;
+	height: 40px;
+	
+}
+
+.arranging{
+	margin-top:10px;
+	
+}
+
+#menubar{
+	
+	display:inline-block;
+}
